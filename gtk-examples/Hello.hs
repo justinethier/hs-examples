@@ -1,4 +1,5 @@
--- Examples from http://www.haskell.org/haskellwiki/Gtk2Hs/Tutorials/Intro
+-- Examples from
+-- http://www.haskell.org/haskellwiki/Gtk2Hs/Tutorials/Intro
 import Graphics.UI.Gtk
 import Control.Monad.Trans(liftIO)
 
